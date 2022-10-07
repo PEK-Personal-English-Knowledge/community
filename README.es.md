@@ -2,7 +2,7 @@
 
 # Hola 👋, Bienvenidos a Personal English Knowledge (PEK) 🚀
 
-🌏 [Inglés](./README.en.md) | [Español](./README.es.md)
+🌏 [Inglés](./README.md) | [Español](./README.es.md)
 
 # Una comunidad para aprender y practicar Inglés completamente GRATIS!
 

@@ -19,6 +19,6 @@ Follow these steps:
     - <a href="https://pek-english.herokuapp.com/" target="_blank"><img width="432" alt="app" src="https://user-images.githubusercontent.com/23409026/194699670-a7014c4a-6649-4a43-9070-ebf6413e2e96.png"></a>
     - We will send you an email to join the organization
 - [ ] Accept the invitation
-- [ ] Enter to the community forum to see our upcoming events and exclusive content [I am the link to the forum](https://github.com/PEK-Personal-English-Knowledge/community/discussions)
+- [ ] Enter to the community forum to see our upcoming events and exclusive content [I am the link to the forum](https://github.com/orgs/PEK-Personal-English-Knowledge/discussions)
 
 ### ¡Contact us, we want to hear you!
